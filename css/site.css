@@ -2,7 +2,7 @@
 body {
   margin: 0;
   font-family: 'Helvetica', sans-serif;
-  color: #888;
+  color: #888888;
   line-height: 1.5;
   font-size: 20px;
   text-align: center;
@@ -22,4 +22,15 @@ img {
 
 .red-text {
   color: #d31616;
+}
+.fa-caret-left{
+  color:blue;
+}
+.gif{
+  height:50%;
+  width:50%;
+}
+.gif2{
+  height:30%;
+  width:30%;
 }
